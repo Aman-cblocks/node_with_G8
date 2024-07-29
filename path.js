@@ -1,0 +1,16 @@
+const path = require("path")
+
+// console.log(__filename)
+// console.log(__dirname)
+// console.log(path.basename(__filename))
+// console.log(path.basename(__dirname))
+// console.log(path.extname(__filename))
+// console.log(path.extname(__dirname))
+// console.log(path.isAbsolute("../path"))
+// console.log(path.parse(__filename))
+// console.log(path.format(path.parse(__filename)))
+// console.log(path.join("/a","/b","./c"))
+// console.log(path.join(__dirname,"data.json"))
+
+// console.log(path.resolve("/a","b","c"))
+// console.log(path.dirname(path.join(__dirname,"data.json")))
